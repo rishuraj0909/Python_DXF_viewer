@@ -53,8 +53,9 @@
 Contributions are welcome! If you have any feature suggestions, bug reports, or improvements, please create a pull request or open an issue.
 
 ## About
+This project was developed by Kumar Rishu Raj to provide a simple and efficient tool for viewing and measuring DXF files. The idea was inspired by the lack of open-source and completely free tools available for basic .dxf file visualization and measurement.
 
-This project was developed by **[George Hill](https://github.com/georgeh1ll)**. It was created to provide a simple tool for viewing and measuring DXF files after discovering the lack of open-source, free options for simple .dxf file viewing. Other applications claim to be free but end up being free trials or have certain features heavily limited, this is completely free and I will continue to work on it during my spare time. 
+Many existing applications claim to be free but are limited by trial periods or restricted features. This project aims to provide a fully free and lightweight DXF viewer that allows users to easily load, visualize, and measure elements from CAD drawings.
 
 ## Acknowledgments
 
